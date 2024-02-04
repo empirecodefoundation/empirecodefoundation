@@ -6,7 +6,7 @@
 
 🤝 We are keen on fostering partnerships and collaborations across diverse domains. By offering our repositories as a platform for innovation, we invite individual contributors, organizations, and communities to join us in our journey of creating impactful technology solutions.
 
-📬 For inquiries, suggestions, or potential collaborations, please reach out to us via email at contact@empirecodefoundation.org. We are dedicated to fostering a culture of open communication and collaboration.
+📬 For inquiries, suggestions, or potential collaborations, please reach out to us via email at info@empirecode.org. We are dedicated to fostering a culture of open communication and collaboration.
 
 👥 Pronouns: We/Us/Our (We are a collective team driven by shared goals and a unified vision)
 
